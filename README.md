@@ -134,7 +134,7 @@ Today, we will delve into the intriguing world of Reconnaissance and Social Engi
 
 <h4><ins>
   
-**Countermeasures** </ins></h4>
+**Countermeasures:** </ins></h4>
 <ul>
 
 <li>
