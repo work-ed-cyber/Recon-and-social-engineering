@@ -106,22 +106,28 @@ Today, we will delve into the intriguing world of Reconnaissance and Social Engi
 <ul>
   <li>
     
-  **Phishing:** We’ve all received emails claiming we’ve won a considerable sum of money or warning us of an account breach urging us to click on a link. This is a classic example of phishing. One notable instance occurred in 2016 when a Lithuanian man scammed Facebook and Google out of more than $100 million by sending fake emails that appeared to be legitimate invoices for their services.</li>
+  **Phishing:** 
+  <ul><li>We’ve all received emails claiming we’ve won a considerable sum of money or warning us of an account breach urging us to click on a link. This is a classic example of phishing. One notable instance occurred in 2016 when a Lithuanian man scammed Facebook and Google out of more than $100 million by sending fake emails that appeared to be legitimate invoices for their services.</li></ul>
   <li>
     
-  **Spear Phishing:** This is a more targeted form of phishing. In 2011, RSA, a major security company, was compromised when an employee opened a spear-phishing email that appeared to be a legitimate recruitment plan.</li>
+  **Spear Phishing:** 
+  <ul><li>This is a more targeted form of phishing. In 2011, RSA, a major security company, was compromised when an employee opened a spear-phishing email that appeared to be a legitimate recruitment plan.</li></ul>
   <li>
     
-  **Vishing:** Voice phishing or "vishing" involves a call from "your bank" asking you to verify your details due to suspicious activity. In 2019, a tech journalist recorded a vishing attempt where scammers posed as Apple Support, trying to steal iCloud credentials.</li>
+  **Vishing:** 
+  <ul><li>Voice phishing or "vishing" involves a call from "your bank" asking you to verify your details due to suspicious activity. In 2019, a tech journalist recorded a vishing attempt where scammers posed as Apple Support, trying to steal iCloud credentials.</li></ul>
   <li>
   
-  **Pretexting:** The scammer creates a fabricated scenario to obtain information. A famous case involved Hewlett Packard's boardroom scandals in 2006, where investigators posed as individuals to obtain phone records.</li>
+  **Pretexting:** 
+  <ul><li>The scammer creates a fabricated scenario to obtain information. A famous case involved Hewlett Packard's boardroom scandals in 2006, where investigators posed as individuals to obtain phone records.</li></ul>
   <li>
     
-  **Tailgating:** Have you ever held a door for someone at your workplace? You might have inadvertently let in an attacker. In various instances, attackers gain physical access to a facility this way.</li>
+  **Tailgating:** 
+  <ul><li>Have you ever held a door for someone at your workplace? You might have inadvertently let in an attacker. In various instances, attackers gain physical access to a facility this way.</li></ul>
   <li>
     
-  **Dumpster Diving:** While it might sound unappealing, scavenging through trash has yielded sensitive information for attackers.</li>
+  **Dumpster Diving:** 
+  <ul><li>While it might sound unappealing, scavenging through trash has yielded sensitive information for attackers.</li></ul>
 </ul>
 
 
@@ -154,17 +160,21 @@ Reconnaissance, often referred to as the "information gathering" phase, is the i
 <ul>
   <li>
     
-  **Replicating Real-World Attacks:** Ethical hackers aim to mimic the methods and techniques of malicious hackers. By undergoing the reconnaissance phase, they can accurately replicate the steps an adversary would take, allowing organizations to understand potential vulnerabilities better.</li>
+  **Replicating Real-World Attacks:** 
+  <ul><li>Ethical hackers aim to mimic the methods and techniques of malicious hackers. By undergoing the reconnaissance phase, they can accurately replicate the steps an adversary would take, allowing organizations to understand potential vulnerabilities better.</li></ul>
   <li>
     
-  **Identification of Vulnerabilities:** Ethical hackers use reconnaissance to gather as much information about their target as possible, helping them identify weak points in systems or processes. This information is invaluable for organizations to strengthen their defenses.</li>
+  **Identification of Vulnerabilities:** 
+   <ul><li>Ethical hackers use reconnaissance to gather as much information about their target as possible, helping them identify weak points in systems or processes. This information is invaluable for organizations to strengthen their defenses.</li></ul>
   <li>
     
-  **Enhancing Efficiency of Later Stages:** A thorough reconnaissance phase ensures that subsequent hacking stages, like exploitation or post-exploitation, are executed more efficiently. With ample information, ethical hackers can strategize their tests better.</li>
+  **Enhancing Efficiency of Later Stages:** 
+   <ul><li>A thorough reconnaissance phase ensures that subsequent hacking stages, like exploitation or post-exploitation, are executed more efficiently. With ample information, ethical hackers can strategize their tests better.</li></ul>
    <li>
      
-  **Avoiding Unnecessary Disruptions:** Ethical hacking aims to find vulnerabilities without causing undue disturbance to the target system. By gathering relevant information beforehand, ethical hackers can ensure they target suitable systems and avoid causing unintended damage or disruptions.
-</li>
+  **Avoiding Unnecessary Disruptions:** 
+   <ul><li>Ethical hacking aims to find vulnerabilities without causing undue disturbance to the target system. By gathering relevant information beforehand, ethical hackers can ensure they target suitable systems and avoid causing unintended damage or disruptions.
+</li></ul>
   
 </ul>
 
@@ -176,30 +186,37 @@ Reconnaissance, often referred to as the "information gathering" phase, is the i
   <ul>
     <li>A versatile tool used to discover devices running on a network and find open ports along with various network attributes.</li>
   </ul>
+  <br>
    <li><ins>Shodan</ins></li>
   <ul>
     <li>Often referred to as the "search engine for devices," it can find devices connected to the internet, from servers to refrigerators.</li>
   </ul>
+   <br>
    <li><ins>theHarvester</ins></li>
   <ul>
     <li>Used for gathering emails, subdomains, hosts, employee names, open ports, and banners from different public sources.</li>
   </ul>
-   <li><ins><Maltego</ins></li>
+   <br>
+   <li><ins>Maltego</ins></li>
   <ul>
     <li>A tool for graphical link analyses that can uncover relationships and links between people, companies, websites, domains, etc.</li>
   </ul>
+   <br>
    <li><ins>Metasploit</ins></li>
   <ul>
     <li>While it's more than just a reconnaissance tool, it comes with modules that can be used for information gathering.</li>
   </ul>
+   <br>
    <li><ins>Social-Engineer Toolkit (SET)</ins></li>
   <ul>
     <li>Specifically designed for social engineering attacks, it offers various customizable attack vectors, including spear-phishing emails and malicious QR codes.</li>
   </ul>
+   <br>
    <li><ins>Phishing Frenzy</ins></li>
   <ul>
     <li>An open-source Ruby on Rails application used to manage email phishing campaigns.</li>
   </ul>
+   <br>
    <li><ins>GoPhish</ins></li>
    <ul>
     <li>Offers the ability to simulate real-world phishing attacks against an organization and evaluate the readiness of its employees.
