@@ -58,19 +58,19 @@
 <h2>NICE Framework KSAs</h2>
 
 <ul>
-<li>K0119	- Knowledge of hacking methodologies.</li>
+<li>K0119: Knowledge of hacking methodologies.</li>
 <br>
-<li>K0206	- Knowledge of ethical hacking principles and techniques.	</li>
+<li>K0206: Knowledge of ethical hacking principles and techniques.	</li>
 <br>
-<li>K0177	- Knowledge of cyber attack stages (e.g., reconnaissance, scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks).</li>
+<li>K0177: Knowledge of cyber attack stages (e.g., reconnaissance, scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks).</li>
 <br>
-<li>K0005	- Knowledge of cyber threats and vulnerabilities. </li>
+<li>K0005: Knowledge of cyber threats and vulnerabilities. </li>
 <br>
-<li>K0009	- Knowledge of application vulnerabilities.</li>
+<li>K0009: Knowledge of application vulnerabilities.</li>
 <br>
-<li>K0144	- Knowledge of social dynamics of computer attackers in a global context.</li>
+<li>K0144: Knowledge of social dynamics of computer attackers in a global context.</li>
 <br>
-<li>S0052	- Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.).</li>
+<li>S0052: Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.).</li>
 <br>
 </ul>
 
@@ -226,27 +226,32 @@ Reconnaissance, often referred to as the "information gathering" phase, is the i
 </ul>
 
 
-
-
-
-
-
-
-
-
-
-
 <h2>Conclusion</h2>
 While technology has vulnerabilities, humans can be the weakest link in the security chain. By understanding these tactics, we can better defend against them. Stay alert, stay skeptical, and stay safe. While reconnaissance is the initial phase of an attack, it's a foundational step for ethical hackers. By understanding and replicating the methods adversaries use to gather information, ethical hackers provide organizations with invaluable insights into their security posture, enabling them to strengthen their defenses and safeguard against genuine threats.
+
+<h2>Definitions</h2>
+<ul>
+<li><b>Reconnaissance:</b> The process of gathering information about a target to identify potential vulnerabilities and plan an attack.</li><br>
+<li><b>Phishing:</b>  A fraudulent attempt to obtain sensitive information by masquerading as a trustworthy entity through email or other communication methods.</li><br>
+<li><b>Social Engineering:</b>  The manipulation of individuals into divulging confidential information or performing actions that compromise security.</li><br>
+<li><b>Spear Phishing:</b>  A targeted phishing attack aimed at a specific individual or organization, often using personalized information to increase the likelihood of success.</li><br>
+<li><b>Pretexting:</b>  A form of social engineering where an attacker creates a fabricated scenario to obtain sensitive information from a victim.</li><br>
+<li><b>Vishing:</b>  Voice phishing, where attackers use phone calls or voice messages to trick individuals into revealing confidential information.</li><br>
+<li><b>Dumpster Diving:</b>  The act of searching through discarded materials, such as trash or recycling, to find sensitive or useful information that can aid in an attack.</li><br>
+<li><b>Tailgating:</b>  The practice of gaining unauthorized access to a secure area by following closely behind an authorized individual, often without proper credentials.</li>
+</ul>
 
 
 <h2> Presentation</h2>
 <a href="https://docs.google.com/presentation/d/15nsaywNGeBfh6nksZhc9GlR1ZE7CuUw4/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Cyber Ethics </a>
+
 
 <h2> Hands-On Labs</h2>
 
 <a href ="https://docs.google.com/document/d/1xyCrw8crtcdxCTVzZLfDrcThbkjGJjJcP7KIvldk4uI/edit?usp=sharing"> Cyber Ethics Activity </a><br>
 <br>
 <a href="https://docs.google.com/document/d/1BLvrFPza5NSXWf9I6OAfzUShpFwHzYx4rJ41UXCp0Yg/edit?usp=sharing"> Cyber Ethics Group Discussion </a>
+
+<h2> Games</h2>
 
 <h2>Additonal Resources</h2>
