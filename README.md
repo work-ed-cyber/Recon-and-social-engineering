@@ -253,5 +253,6 @@ While technology has vulnerabilities, humans can be the weakest link in the secu
 <a href="https://docs.google.com/document/d/1BLvrFPza5NSXWf9I6OAfzUShpFwHzYx4rJ41UXCp0Yg/edit?usp=sharing"> Cyber Ethics Group Discussion </a>
 
 <h2> Games</h2>
+<a href="https://create.kahoot.it/share/quiz-lesson-10-2-reconnaissance-and-social-engineering/c1c5fade-6d6b-4791-8ff4-af773a46ab2c"> Kahoot: Reconnaissance and Social Engineering </a>
 
 <h2>Additonal Resources</h2>
