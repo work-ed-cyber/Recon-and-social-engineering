@@ -243,7 +243,7 @@ While technology has vulnerabilities, humans can be the weakest link in the secu
 
 
 <h2> Presentation</h2>
-<a href="https://docs.google.com/presentation/d/15nsaywNGeBfh6nksZhc9GlR1ZE7CuUw4/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Cyber Ethics </a>
+<a href="https://docs.google.com/presentation/d/1WnW_hvxGDpf-3FYBee93tWqn0KUIzZcD/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Reconnaissance and Social Engineering </a>
 
 
 <h2> Hands-On Labs</h2>
